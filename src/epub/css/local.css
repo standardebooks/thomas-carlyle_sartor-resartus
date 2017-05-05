@@ -86,3 +86,8 @@ blockquote header + p{
 [epub|type~="appendix"] footer b{
 	font-style: normal;
 }
+
+blockquote.dialogue p + p{
+	margin-top: 1em;
+	text-indent: 0;
+}
