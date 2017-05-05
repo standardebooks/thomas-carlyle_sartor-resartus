@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+i em{
+	font-style: normal;
+}
+
 strong{
 	font-weight: normal;
 	font-variant: small-caps;
@@ -29,4 +33,27 @@ p span.i1{
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
+}
+
+.epitaph{
+	font-variant: all-small-caps;
+	text-align: center;
+}
+
+.epitaph i{
+	font-variant: normal;
+}
+
+.epitaph .large{
+	font-size: 1.2em;
+}
+
+.epitaph .xlarge{
+	font-size: 1.4em;
+}
+
+blockquote header p{
+	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
 }
