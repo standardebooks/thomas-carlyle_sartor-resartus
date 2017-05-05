@@ -5,6 +5,7 @@ i em{
 	font-style: normal;
 }
 
+b,
 strong{
 	font-weight: normal;
 	font-variant: small-caps;
@@ -56,4 +57,28 @@ blockquote header p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
+}
+
+blockquote header + p{
+	margin-top: 1em;
+}
+
+[epub|type~="appendix"] blockquote{
+	margin: 0;
+	margin-top: 2em;
+}
+
+[epub|type~="appendix"] blockquote[epub|type="epigraph"]{
+	text-align: center;
+	font-variant: small-caps;
+}
+
+[epub|type~="appendix"] footer{
+	margin-top: 1em;
+	text-align: right;
+	font-style: italic;
+}
+
+[epub|type~="appendix"] footer b{
+	font-style: normal;
 }
