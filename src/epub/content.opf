@@ -33,13 +33,13 @@
 		<dc:subject id="subject-5">Conduct of life -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Clothing and dress -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Philosophers -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/1051</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1051</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1051</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1051</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1051</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1051</meta>
+		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/1051</meta>
+		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/1051</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
@@ -52,8 +52,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/20585</dc:source>
 		<dc:source>https://books.google.com/books?id=VRIPAAAAQAAJ</dc:source>
 		<meta property="se:production-notes">Unusual capitalization has been preserved, as it is probable that Carlyle purposefully did it to lend the text a German-language flavor.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">80077</meta>
+		<meta property="se:reading-ease.flesch">48.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sartor_resartus</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-carlyle_sartor-resartus</meta>
 		<dc:creator id="author">Thomas Carlyle</dc:creator>
@@ -61,6 +61,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_Carlyle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79022968</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">John Linnell</dc:contributor>
 		<meta property="file-as" refines="#artist">Linnell, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Linnell_(painter)</meta>

@@ -11,6 +11,10 @@ strong{
 	font-variant: small-caps;
 }
 
+abbr.name{
+	white-space: nowrap;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
