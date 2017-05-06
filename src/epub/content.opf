@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20585</dc:source>
 		<dc:source>https://books.google.com/books?id=VRIPAAAAQAAJ</dc:source>
-		<meta property="se:production-notes">Unusual capitalization has been preserved, as it is probable that Carlyle purposefully did it to lend the text a German-language flavor.</meta>
+		<meta property="se:production-notes">Unusual capitalization and italicization has been preserved, as it is probable that Carlyle purposefully did it to lend the text a German-language flavor.</meta>
 		<meta property="se:word-count">80078</meta>
 		<meta property="se:reading-ease.flesch">48.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sartor_resartus</meta>
