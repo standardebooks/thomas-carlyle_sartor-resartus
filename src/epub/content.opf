@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-06-13T17:04:28Z</dc:date>
+		<meta property="dcterms:modified">2017-06-13T17:04:28Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,18 +42,19 @@
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/1051</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;Sartor Resartus&lt;/i&gt; was a strange and new book when it was first published in 1833, and in many ways it remains a strange and new book today.  The bulk of the novel takes the form of the a commentary on the life and works of the fictional German Diogenes Teufelsdröckh, a sort of renaissance-man philosopher who develops a “Philosophy of Clothes.”  The commentary is composed by a fictional English commentator, known only as the “Editor”; the Editor claims to have translated many of Teufelsdröckh’s ideas and quotes from German.  As the commentary progresses the Editor receives a bag of paper scraps on which are written various autobiographical fragments from Teufelsdröckh’s.  The Editor’s attempts to organize and interpret these scraps forms the second part of the novel.&lt;/p&gt;
+			&lt;p&gt;The work is multi-faceted: sometimes a parody, sometimes a comedy, sometimes a satire, and sometimes seriously philosophical.  Some critics consider it an early existentialist text.  At the very least its unique structure and use of meta-narrative is hugely influential to modern literature; Borges was said to have memorized entire pages, and modern texts like Nabokov’s &lt;i&gt;Pale Fire&lt;/i&gt; borrow liberally from the concept of a meta-narrative organized on scraps of paper.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20585</dc:source>
 		<dc:source>https://books.google.com/books?id=VRIPAAAAQAAJ</dc:source>
 		<meta property="se:production-notes">Unusual capitalization and italicization has been preserved, as it is probable that Carlyle purposefully did it to lend the text a German-language flavor.</meta>
-		<meta property="se:word-count">80078</meta>
-		<meta property="se:reading-ease.flesch">48.27</meta>
+		<meta property="se:word-count">80373</meta>
+		<meta property="se:reading-ease.flesch">48.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sartor_resartus</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-carlyle_sartor-resartus</meta>
 		<dc:creator id="author">Thomas Carlyle</dc:creator>
