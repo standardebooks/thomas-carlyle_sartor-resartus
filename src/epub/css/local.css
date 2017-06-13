@@ -91,3 +91,7 @@ blockquote.dialogue p + p{
 	margin-top: 1em;
 	text-indent: 0;
 }
+
+.articles p{
+	text-indent: 0;
+}
