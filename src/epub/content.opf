@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Sartor Resartus</dc:title>
 		<meta property="file-as" refines="#title">Sartor Resartus</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -43,22 +43,27 @@
 		<dc:subject id="subject-5">Conduct of life -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Clothing and dress -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Philosophers -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/1051</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/1051</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85117645</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85037714</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85062975</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008105064</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008100668</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008101541</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008109203</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Sartor Resartus&lt;/i&gt; was a strange and new book when it was first published in 1833, and in many ways it remains a strange and new book today. The bulk of the novel takes the form of the a commentary on the life and works of the fictional Diogenes Teufelsdröckh, a sort of renaissance-man German philosopher who develops a “Philosophy of Clothes.” The commentary is composed by a fictional English commentator, known only as the “Editor”; the Editor claims to have translated many of Teufelsdröckh’s ideas and quotes from German. As the commentary progresses, the Editor receives a bag of paper scraps on which are written various autobiographical fragments from Teufelsdröckh’s life. The Editor’s attempts to organize and interpret these scraps forms the second part of the novel.&lt;/p&gt;
 			&lt;p&gt;The work is multi-faceted: sometimes a parody, sometimes a comedy, sometimes a satire, and sometimes seriously philosophical. Some critics consider it an early existentialist text. At the very least its unique structure and use of meta-narrative is hugely influential to modern literature; Borges was said to have memorized entire pages, and modern texts like Nabokov’s &lt;i&gt;Pale Fire&lt;/i&gt; borrow liberally from the concept of a meta-narrative organized on scraps of paper.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20585</dc:source>
 		<dc:source>https://books.google.com/books?id=VRIPAAAAQAAJ</dc:source>
