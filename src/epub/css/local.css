@@ -30,20 +30,20 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.epitaph{
+#chapter-2-4 blockquote:last-of-type{
 	font-variant: all-small-caps;
 	text-align: center;
 }
 
-.epitaph i{
+#chapter-2-4 blockquote:last-of-type i{
 	font-variant: normal;
 }
 
-.epitaph .large{
+#chapter-2-4 blockquote:last-of-type span{
 	font-size: 1.2em;
 }
 
-.epitaph .xlarge{
+#chapter-2-4 blockquote:last-of-type span:nth-of-type(2){
 	font-size: 1.4em;
 }
 
@@ -61,7 +61,7 @@ blockquote header + p{
 	margin-top: 2em;
 }
 
-blockquote.conclusion{
+#testimonies-of-authors blockquote:last-of-type{
 	text-align: center;
 	font-variant: small-caps;
 }
@@ -76,11 +76,11 @@ blockquote.conclusion{
 	font-style: normal;
 }
 
-blockquote.dialogue p + p{
+#testimonies-of-authors blockquote:first-of-type p + p{
 	margin-top: 1em;
 	text-indent: 0;
 }
 
-.articles p{
+#chapter-3-10 blockquote:first-of-type p{
 	text-indent: 0;
 }
