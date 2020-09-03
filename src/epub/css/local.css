@@ -25,11 +25,6 @@ p span.i1{
 	padding-left: 2em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 #chapter-2-4 blockquote:last-of-type{
 	font-variant: all-small-caps;
 	text-align: center;
