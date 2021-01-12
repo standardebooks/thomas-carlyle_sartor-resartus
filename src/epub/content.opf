@@ -68,7 +68,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/20585</dc:source>
 		<dc:source>https://books.google.com/books?id=VRIPAAAAQAAJ</dc:source>
 		<meta property="se:production-notes">Unusual capitalization and italicization has been preserved, as it is probable that Carlyle purposefully did it to lend the text a German-language flavor.</meta>
-		<meta property="se:word-count">80385</meta>
+		<meta property="se:word-count">80386</meta>
 		<meta property="se:reading-ease.flesch">48.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sartor_resartus</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-carlyle_sartor-resartus</meta>
