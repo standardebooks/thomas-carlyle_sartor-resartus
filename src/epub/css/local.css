@@ -57,14 +57,14 @@ blockquote header + p{
 }
 
 #testimonies-of-authors blockquote:last-of-type{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 [epub|type~="appendix"] footer{
+	font-style: italic;
 	margin-top: 1em;
 	text-align: right;
-	font-style: italic;
 }
 
 [epub|type~="appendix"] footer b{
