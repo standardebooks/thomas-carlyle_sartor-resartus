@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh</dc:title>
 		<meta property="file-as" refines="#fulltitle">Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">Didactic fiction</dc:subject>
 		<dc:subject id="subject-3">Humorous stories</dc:subject>
