@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus</dc:identifier>
 		<dc:date>2017-06-13T17:04:28Z</dc:date>
@@ -60,11 +60,11 @@
 		<meta property="term" refines="#subject-7">sh2008109203</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:description id="description">The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Sartor Resartus&lt;/i&gt; was a strange and new book when it was first published in 1833, and in many ways it remains a strange and new book today. The bulk of the novel takes the form of the a commentary on the life and works of the fictional Diogenes Teufelsdröckh, a sort of renaissance-man German philosopher who develops a “Philosophy of Clothes.” The commentary is composed by a fictional English commentator, known only as the “Editor”; the Editor claims to have translated many of Teufelsdröckh’s ideas and quotes from German. As the commentary progresses, the Editor receives a bag of paper scraps on which are written various autobiographical fragments from Teufelsdröckh’s life. The Editor’s attempts to organize and interpret these scraps forms the second part of the novel.&lt;/p&gt;
 			&lt;p&gt;The work is multi-faceted: sometimes a parody, sometimes a comedy, sometimes a satire, and sometimes seriously philosophical. Some critics consider it an early existentialist text. At the very least its unique structure and use of meta-narrative is hugely influential to modern literature; Borges was said to have memorized entire pages, and modern texts like Nabokov’s &lt;i&gt;Pale Fire&lt;/i&gt; borrow liberally from the concept of a meta-narrative organized on scraps of paper.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20585</dc:source>
 		<dc:source>https://books.google.com/books?id=VRIPAAAAQAAJ</dc:source>
