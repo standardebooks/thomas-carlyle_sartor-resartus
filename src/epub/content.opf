@@ -40,10 +40,10 @@
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">Didactic fiction</dc:subject>
 		<dc:subject id="subject-3">Humorous stories</dc:subject>
-		<dc:subject id="subject-4">Germany -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Conduct of life -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Clothing and dress -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Philosophers -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Germany--Fiction</dc:subject>
+		<dc:subject id="subject-5">Conduct of life--Fiction</dc:subject>
+		<dc:subject id="subject-6">Clothing and dress--Fiction</dc:subject>
+		<dc:subject id="subject-7">Philosophers--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85117645</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
